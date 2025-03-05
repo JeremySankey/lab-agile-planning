@@ -21,5 +21,3 @@ assignees: ''
  When [certain action is taken]
  Then [the outcome of action is observed]
  ```
-
-I am Jeremy
